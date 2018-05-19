@@ -1,8 +1,8 @@
 {
-  "name": "night-owl",
+  "name": "night-owl-them-ui",
   "displayName": "Night Owl",
   "description":
-    "A VS Code theme for the night owls out there. Works well in the daytime, too. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+    "night owl theme for atom",
   "version": "0.1.7",
   "publisher": "sdras",
   "license": "SEE LICENSE IN LICENSE.md",
