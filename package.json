@@ -1,7 +1,7 @@
 {
   "name": "night-owl-theme-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "🌌 NIGHT OWL: A Atom dark color scheme for contrast for nighttime coding based on the VS Code theme of the same name",
   "keywords": [
     "ui",
