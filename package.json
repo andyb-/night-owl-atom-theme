@@ -2,14 +2,14 @@
   "name": "night-owl-theme-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "🌌 NIGHT OWL: A Atom dark color scheme for contrast for nighttime coding based on the VS Code theme of the same name",
+  "description": "🌌 NIGHT OWL: A Atom dark color scheme for contrast for nighttime coding based on the VS Code theme of the same name",
   "keywords": [
     "ui",
     "theme",
-    "dark theme",
+    "color-theme",
+    "dark-theme",
     "night owl",
-    "night theme",
-    "accessible theme"
+    "night theme"
   ],
   "repository": "https://github.com/andyb-/night-owl-atom-theme.git",
   "license": "MIT",
