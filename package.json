@@ -1,14 +1,15 @@
 {
-  "name": "night-owl-them-ui",
+  "name": "night-owl-theme-ui",
+  "theme": "ui",
   "displayName": "Night Owl",
   "description":
-    "night owl theme for atom",
-  "version": "0.1.7",
-  "publisher": "sdras",
+    "🌌 NIGHT OWL: A Atom dark color scheme for contrast for nighttime coding based on the VS Code theme of the same name",
+  "version": "0.0.0",
+  "publisher": "andyb-",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdras/night-owl-vscode-theme"
+    "url": "https://github.com/andyb-/night-owl-atom-theme.git"
   },
   "keywords": [
     "Theme",
@@ -18,24 +19,10 @@
     "Accessible Theme"
   ],
   "scripts": {
-    "publish": "vsce publish"
-  },
-  "galleryBanner": {
-    "color": "#061526",
-    "theme": "dark"
+    "publish": "apm publish"
   },
   "engines": {
-    "vscode": "^1.17.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
-  "categories": ["Themes"],
   "icon": "owl-icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Night Owl",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Night Owl-color-theme.json"
-      }
-    ]
-  }
 }

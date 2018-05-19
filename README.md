@@ -1,6 +1,6 @@
 # Night Owl 🌌
 
-Night Owl theme for Atom
+NIGHT OWL: A Atom dark color scheme for contrast for nighttime coding based on the VS Code theme of the same name
 
 ![Preview](preview.png)
 
